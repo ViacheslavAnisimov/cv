@@ -1,2 +1,2 @@
 # cv
-https://viacheslavanisomov.github.io/cv/index.html
+https://viacheslavanisomov.github.io/cv/
